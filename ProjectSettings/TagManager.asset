@@ -5,7 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
-  - Planet
+  - PlanetRadius
+  - Attractor
+  - Attractable
   layers:
   - Default
   - TransparentFX
@@ -13,8 +15,8 @@ TagManager:
   - Ground
   - Water
   - UI
-  - Planet
-  - 
+  - PlanetRadius
+  - Attractable
   - 
   - 
   - 
